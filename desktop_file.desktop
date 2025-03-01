@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=upload_start
+Type=Application
+Path=/home/aws2024/aws2024_code/aws2024_shellscript
+Icon=/home/aws2024/Downloads/circuit.png
+Exec=lxterminal -e "bash -c '/home/aws2024/aws2024_code/aws2024_shellscript/serial_start.sh; exec bash'"
+Terminal=false
